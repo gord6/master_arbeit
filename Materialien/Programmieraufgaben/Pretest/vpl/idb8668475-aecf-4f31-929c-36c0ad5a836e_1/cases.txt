@@ -1,0 +1,15 @@
+Case = Test 0
+input =Dies ist ein Test
+output = 3
+Case = Test 1
+input =Test in Java
+output = 2
+Case = Test 2
+input=Hallo Welt
+output = 4
+Case = Test 3
+input =Die Katze ist im Garten
+output = 2
+Case = Test 4
+input =Feuerrotes Spielzeugauto
+output = 10
